@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente aprendendo um pouco de PHP, Java e SQL.<br><br>Constantemente chorando internamente por erros que<br>eu só descobri existirem, quando eu magicamente criei.<br>Diariamente dando risada das coisas que eu consigo fazer errado<br>antes de tornar certo.<br><br>Estrela ☆ 
+Full-Stack Developer | HTML | CSS | Java | JS | ReactNative | SQL | UX & UI | Suporte de TI<br><br>Estrela ☆ 
 
 
 ## 🌐 Socials:
